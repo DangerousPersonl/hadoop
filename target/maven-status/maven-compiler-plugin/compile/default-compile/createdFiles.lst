@@ -1,0 +1,3 @@
+com\ldk\mapreduce\wordcount2\WordCountDriver.class
+com\ldk\mapreduce\wordcount2\WordCountReducer.class
+com\ldk\mapreduce\wordcount2\WordCountMapper.class
